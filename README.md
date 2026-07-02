@@ -17,9 +17,9 @@ There's nothing to read before you start. You'll have it figured out in the firs
 ## What's in it
 
 - **Four biomes** that roll in as you travel: sunny isles, neon city, autumn woods, and frostpeak. The first stretch runs long, so reaching a new one feels earned.
-- **Coins** that love to sit exactly where grabbing them is a bad idea — which is the point.
+- **Coins** that love to sit exactly where grabbing them is a bad idea which is the point.
 - A **combo multiplier** that climbs while you keep advancing and collapses the moment you stall or back up.
-- **Near-miss slow-mo** — time briefly stretches when a car or train shaves past you.
+- **Near-miss slow-mo**: time briefly stretches when a car or train shaves past you.
 - **Unlockable characters**, bought with coins, each with a real perk: coin magnet, double coins, an extra life, or immunity to drowning.
 - A **day/night cycle** that slides the sky from bright afternoon into neon dark.
 - **Three chiptune tracks generated entirely in code** no audio files with one chosen at random each run.
